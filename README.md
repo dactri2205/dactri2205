@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi there! 👋 I'm Ngo Van Dac Tri
+About Me
+🎓 I am passionate about programming and interested in Artificial Intelligence and Machine Learning, with a solid background in OOP and Data Structures & Algorithms.
+💻 Currently, developing a rescue support application for emergency assistance.
+🤖 I have participated in research related to a small-scale smart home system, focusing on intelligent automation.
+🗂️ My academic interests include databases, system design, and applied intelligent systems.
+🌱 Always learning new technologies to enhance my programming skills.
 
-<!--
-**dactri2205/dactri2205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 My Skills
+Languages: C++, Python, SQL
+Technologies: OOP, File Handling, Data Structures and Algorithms
+Tools: Visual Studio Code, Git
+Let's connect and collaborate! 🚀
